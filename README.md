@@ -2,6 +2,6 @@
 
 ## Project structure
 
-*   **[com.edstem.file-upload-storage](src/main/java/com/edstem/file-upload-storage)**: The main application package.
+*   **[com.edstem.file_upload_storage](src/main/java/com/edstem/file_upload_storage)**: The main application package.
 
  
